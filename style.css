@@ -1,0 +1,26 @@
+h1 {
+    color: #97ddad;
+}
+
+
+
+.THEGROUP{
+    background-color:#f40300;
+    display:flex;
+    justify-content:space-evenly
+}
+
+.THEGROUPNUMBERTWO{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap
+}
+
+.TheThreeApps{
+    display:flex;
+    justify-content:flex-end
+}
+
+h2,p{
+    text-align:center
+}
